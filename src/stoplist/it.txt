@@ -195,6 +195,7 @@ inc
 inoltre
 intorno
 io
+l'
 l
 la
 lasciato
@@ -393,6 +394,8 @@ suoi
 tali
 ti
 titolo
+tornato
+tornata
 tra
 tranne
 tre
@@ -424,4 +427,3 @@ vostra
 vostre
 vostri
 vostro
-»
